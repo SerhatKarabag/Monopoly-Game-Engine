@@ -1,2 +1,2 @@
 # WheelGame
-Wheel based game for job application
+monopoly based game
